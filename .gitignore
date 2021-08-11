@@ -1,0 +1,9 @@
+*-e00.fits.fz
+
+.ipynb_checkpoints/*
+.ipynb*
+__pycache__
+
+venv/
+
+.DS_Store
